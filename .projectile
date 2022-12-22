@@ -1,0 +1,12 @@
+-/elpa
+-/melpa
+-/elpy
+-/.python-environments
+-/anaconda-mode
+-/auto-save-list
+-/backup
+-/eshell
+-/semanticdb
+-/transient
+-*.dat
+-*.elc
